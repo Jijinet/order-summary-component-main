@@ -32,7 +32,7 @@ body {
   justify-content: center;
 }
 
-.container {
+main {
   width: 450px;
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@ body {
   align-items: center;
 }
 
-.container > img:nth-of-type(1) {
+main > img:nth-of-type(1) {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   width: 100%;
@@ -154,7 +154,7 @@ button:hover {
 }
 
 @media screen and (max-width: 375px) {
-  .container {
+  main {
     margin:0 20px
   }
   .card{
