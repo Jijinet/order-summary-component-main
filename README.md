@@ -33,10 +33,10 @@ Users should be able to see hover states for interactive elements.
 
 ### Links
 
-- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/nft-preview-card-component-esjPYS6HLk
-- Live Site URL: https://atif-dev.github.io/nft-preview__card-component/
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/ordersummarycomponentmain-using-html-and-css-aZTcpR0-em
+- Live Site URL: https://jijinet.github.io/order-summary-component-main/
 - Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
-- GitHub repo : https://github.com/atif-dev/nft-preview__card-component
+- GitHub repo : https://github.com/Jijinet/order-summary-component-main
 
 ## My process
 
