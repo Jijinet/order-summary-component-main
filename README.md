@@ -35,7 +35,7 @@ Users should be able to see hover states for interactive elements.
 
 - Frontend Mentor solution url: https://www.frontendmentor.io/solutions/ordersummarycomponentmain-using-html-and-css-aZTcpR0-em
 - Live Site URL: https://jijinet.github.io/order-summary-component-main/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=beDrG-XkP40Vc3Dq_R6kGA
 - GitHub repo : https://github.com/Jijinet/order-summary-component-main
 
 ## My process
